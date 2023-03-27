@@ -1,0 +1,15 @@
+C:\Users\tran2\source\repos\Cv2703\Cv2703\bin\Debug\net6.0\Cv2703.exe
+C:\Users\tran2\source\repos\Cv2703\Cv2703\bin\Debug\net6.0\Cv2703.deps.json
+C:\Users\tran2\source\repos\Cv2703\Cv2703\bin\Debug\net6.0\Cv2703.runtimeconfig.json
+C:\Users\tran2\source\repos\Cv2703\Cv2703\bin\Debug\net6.0\Cv2703.dll
+C:\Users\tran2\source\repos\Cv2703\Cv2703\bin\Debug\net6.0\Cv2703.pdb
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.csproj.AssemblyReference.cache
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.AssemblyInfoInputs.cache
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.AssemblyInfo.cs
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.csproj.CoreCompileInputs.cache
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.dll
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\refint\Cv2703.dll
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.pdb
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\Cv2703.genruntimeconfig.cache
+C:\Users\tran2\source\repos\Cv2703\Cv2703\obj\Debug\net6.0\ref\Cv2703.dll
