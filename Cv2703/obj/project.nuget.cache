@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RjDfrEqnb8FZnSGkWOsvYLegxzh+eoxSEh1D/c8aaHJ2ucuTee5NJIEAF4QKGvTLsweHeKz7KdJ6S/DWotvVhA==",
+  "dgSpecHash": "/uTuGKRJjxazwBu138BdAziQ1mmunOEsV9xdx5uh6sOfODpwA0OueszI4EKPke+w+XBRMRN/Ef3ENnrIPn3Ofg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tran2\\source\\repos\\Cv2703\\Cv2703\\Cv2703.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tran2\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

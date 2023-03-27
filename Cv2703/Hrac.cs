@@ -43,7 +43,7 @@ namespace Cv2703
                 {
                     Health -= hodnota;
 
-                    Console.WriteLine($"Decreasing {hodnota} ... Remains: {Health}");
+                    //Console.WriteLine($"Decreasing {hodnota} ... Remains: {Health}");
                 }
             }
             
@@ -56,7 +56,7 @@ namespace Cv2703
                 if (IsLiving)
                 {
                     Health += hodnota;
-                    Console.WriteLine($"increasing {hodnota} ...Remains: {Health}");
+                    //Console.WriteLine($"increasing {hodnota} ...Remains: {Health}");
                 }
             }
         }
